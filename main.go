@@ -11,7 +11,7 @@ func add(x int, y int) int {
 	return x + y
 }
 
-func sub(x int, y int) int {
+func subtract(x int, y int) int {
 	return x - y
 }
 
